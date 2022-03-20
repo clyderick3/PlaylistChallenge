@@ -8,7 +8,9 @@ public class Music {
         this.playList = playList;
     }
 
+    //song si
     public Integer selection(Integer startIndex, String selection){
+        //Each song is ordered sequentially = [s0, s1, ...];
         return null;
     }
 }
